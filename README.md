@@ -1,147 +1,147 @@
-### In this document, each rule should be followed by an explanation, giving the philosophical reason for its existence and/or the practical, real world reason that it is important.
+## In this document, each rule should be followed by an explanation, giving the philosophical reason for its existence and/or the practical, real-world reason that it is important.
 
-1) When walking in, greet the customer within 7 seconds. A head nod - a hand motion with eye contact - anything. Do NOT leave them hanging as if they did not walk in at all. If you are busy (helping out another customer, finishing a phone call), tell them you will help them out in a minute or two, or with a hand gesture that you will help them out soon.
+#### 1) When walking in, greet the customer within 7 seconds. - a head nod, a hand motion with eye contact, anything. Do NOT leave them hanging as if they did not walk in at all. If you are busy (helping out another customer, finishing a phone call), tell them you will help them out in a minute or two, or with a hand gesture that you will help them out soon.
 
-**Explanation:** They will understand if you are dealing with other customers, but they will take it personally if they are ignored.
+* **Explanation:** They will understand if you are dealing with other customers, but they will take it personally if they are ignored.
 
-2) If the price of the estimate is close to the value of the device, make sure to tell the customer that it might not be worth repairing the device ***before*** giving the customer the estimate. 
+#### 2) If the price of the estimate is close to the value of the device, make sure to tell the customer that it might not be worth repairing the device ***before*** giving the customer the estimate. 
 
-**Explanation:** Customers of repair shops are often on edge about being ripped off - if you let them know beforehand that the cost of repair might not be economically viable, they will not accuse you later of trying to “sell” them something that wasn’t worth it. It builds trust rather than anxiety and demonstrates that you are on their side, which, if you run a *good* repair shop - you should be.
+* **Explanation:** Customers of repair shops are often on edge about being ripped off. If you let them know beforehand that the cost of repair might not be economically viable, they will not accuse you later of trying to “sell” them something that wasn’t worth it. It builds trust rather than anxiety and demonstrates that you are on their side (which you should be if you run a good repair shop).
 
-3) Anytime you say no or are turning away a customer, give an explanation of the honest *why* - without this, people will feel as if you do not want to help them and take it personally, as if the repair industry as a whole doesn’t want to help them .
+#### 3) Anytime you say no or are turning away a customer, explain of the honest *reason*. Without this, people will feel as if you do not want to help them and take it personally, as if the repair industry as a whole doesn’t want to help them .
 
-**Explanation:** When bad news is given, the customer will often be agitated - some more than others, and some will handle it better than others. You can’t change how people feel about the bad news - but you can focus the direction of their agitation at someone other than yourself. It makes sense for the customer to be mad at *you* if *you* aren’t able to help them with their problem, when they have every reason to believe you can - which is why it is *important to explain why we can’t.* Let them understand that we would love to help them, but the manufacturer goes out of their way to make it impossible for us to do so.
+* **Explanation:** When bad news is given, the customer will often be agitated (some more than others), and some will handle it better than others. You can’t change how people feel about the bad news - but you can focus the direction of their agitation at someone other than yourself. It makes sense for the customer to be mad at *you* if *you* aren’t able to help them with their problem, when they have every reason to believe you can - which is why it is *important to explain why we can’t.* Let them understand that we would love to help them, but the manufacturer goes out of their way to make it impossible for us to do so.
 
-**Example:**  If we cannot repair the device because it is too new or we do not have the part for it, tell the customer that we do not have it. If the part is not on the market, let them know why - Apple goes out of their way to make it difficult to impossible for independent repair shops to source parts to repair their products by locking us out of supply chains. If they ask you to work on a device that you do not work on, don’t just say no - tell them that it requires experience to open the device properly without breaking it, and you fear that you may cause the device harm by working on it without experience whereby another repair shop that has experience with that device would be more qualified & capable of the job.
+* **Example:**  If we cannot repair the device because it is too new or we do not have the part for it, tell the customer that we do not have it. If the part is not on the market, let them know why - Apple goes out of their way to make it difficult to impossible for independent repair shops to source parts to repair their products by locking us out of supply chains. If they ask you to work on a device that you do not work on, don’t just say no - tell them that it requires experience to open the device properly without breaking it, and you fear that you may cause the device harm by working on it without experience whereby another repair shop that has experience with that device would be more qualified & capable of the job.
 
-4) Keep track of the condition of the device as it enters the store. If it’s beat up or scratched, pristine, let the ticket notes reflect this.
+#### 4) Keep track of the condition of the device as it enters the store. If it’s beaten up,or scratched, pristine, et cetera, let the ticket notes reflect this.
 
-**Explanation:** Difficult customers will sometimes use scratches on the case as a reason to not pay the bill or to create lengthy, unnecessary drawn out conflict that takes you away from productive work. By notating these on intake, you can confidently assert they were already there. Being confident in this assertion will usually shut it down without further conflict, but this assertion won’t be confident if you aren’t sure.
+* **Explanation:** Difficult customers will sometimes use scratches on the case as a reason to not pay the bill or to create lengthy, unnecessary, drawn-out conflict that takes you away from productive work. By notating these on intake, you can confidently assert they were already there. Being confident in this assertion will usually shut it down without further conflict, but this assertion won’t sound confident if you aren’t sure.
 
-5) Always notate if anything is missing or if there is damage on the device, i.e. drive, screws.
+#### Always notate if anything is missing or if there is damage on the device (drive, screws, etc.)
 
-**Explanation:** We do not want to be liable for issues outside the issue the customer brought the device to us for.
+* **Explanation:** We do not want to be liable for issues outside the issue the customer brought the device to solve.
 
-6) If there is liquid damage on the machine, make sure to take the logic board out of the machine, don’t assume that the board is clean when looking at one side of the machine. 
+#### 6) If there is liquid damage on the machine, make sure to take the logic board out of the machine. Don’t assume that the board is clean just by looking at one side of the machine. 
 
-**Explanation:** Customers may return with a device that dies again if we only address one section of the machine without addressing the unseen liquid damage on the opposite side of the motherboard. One side of the board can look perfectly clean, while the opposite looks like a trainwreck. One side of the board can look perfectly clean, while the opposite looks like a trainwreck. If we give the machine back to the customer fixed with unchecked corrosion, it will fail again and they will be very angry.
+* **Explanation:** Customers may return with a device that dies again if we only address one section of the machine without addressing the unseen liquid damage on the opposite side of the motherboard. One side of the board can look perfectly clean, while the opposite side looks like a trainwreck. If we give the machine back to the customer fixed with unchecked corrosion, it will fail again, and they will be very angry.
 
-7) All devices should have an addressable location, such as a slot number, or if it was handed to a technician, who you gave the device to.
+#### 7) All devices should have an addressable location, such as a slot number, or if it was handed to a technician, who you gave the device to.
 
-**Explanation:** All of the slot numbers in our store have a letter & a number assigned to them, so that we can easily find where the machine is in the store. If you take in a machine without a slot number, it makes it difficult if not impossible for it to be located.
+* **Explanation:** All of the slot numbers in our store have a letter and a number assigned to them so that we can easily find where the machine is in the store. If you take in a machine without a slot number, it makes it difficult (if not impossible) for it to be located.
+* 
+#### 8) If the device is liquid damaged, remove any power source before leaving it in a slot to prevent more damage to the device.
 
-8) If the device is liquid damaged, remove any power source before leaving it in a slot to prevent more damage to the device.
+* **Explanation:** Leaving the battery plugged in means it will continue to degrade as it sits in the slot waiting for a technician to begin working on it.
 
-**Explanation:** Leaving the battery plugged in means it will continue to degrade as it sits in the slot waiting for a technician to begin working on it.
+#### 9) If there is a device that we do not offer services on, try to refer them to another repair shop that may be able to help with the issues the customer is having. 
 
-9) If there is a device that we do not offer services on, try to refer them to another repair shop that may be able to help with the issues the customer is having. 
+* **Explanation:** Refer to rule *3*.
 
-**Explanation:** Refer to *Anytime you say no or are turning away a customer, give an explanation of the honest why* rule.
+#### 10) When they leave the device, make sure to write in the notes where the device is in the store, what you quoted the customer for, the price and timeframe, anything discussed, and the model number. 
 
-10) When they leave the device, make sure to leave in the notes where the device is in the store, what you quoted the customer for, the price and timeframe, anything discussed, and the model number. 
+* **Explanation:** Mystery does no one any good. All of these are necessary details to keep track of.
 
-**Explanation:** Mystery does no one any good. All of these are necessary details to keep track of.
+#### 11) If you take a machine from a slot, make a note of where the device is. You should be able to find out where a machine is at any time when it is in the store. 
 
-11) If you take a machine from a slot, make a note of where the device is. You should be able to find out where a machine is at any time when it is in the store. 
+* **Explanation:** It is incredibly annoying to go to a slot only to find the machine is not there because someone else took it. Further, we need to be able to tell where something is at any given time in case something must be retrieved from the device, or if it must be reassembled for collection by the customer when you are not here.
 
-**Explanation:** It is incredibly annoying to go to a slot only to find the machine is not there because someone else took it. Further, we need to be able to tell where something is at any given time incase something must be retrieved from the device, or it must be reassembled for collection by the customer when you are not here.
+#### 12) After working on the machine, if the machine looks dirty, use a microfiber cloth with a cleaning solution. Don’t assume that someone will clean the device before handing back or shipping back to the customer, and don’t assume it came into the store that way.
 
-12) After working on the machine, if the machine looks dirty, use a microfiber cloth with a cleaning solution. Don’t assume that someone will clean the device before handing back or shipping back to the customer and don’t assume it came into the store that way. 
+* **Explanation:** If each person assumes the way a device arrives at their desk is how it comes into the store and does not clean it, this increases the likelihood of it being given back to the customer with stains/marks that were not there initially. It leaves a good impression when a customer receives a device back looking better than when they brought it.
 
-**Explanation:** If each person assumes the way a device arrives at their desk is how it comes into the store and does not clean it, this increases the likelihood of it being given back to the customer with stains/marks that were not there initially. It leaves a good impression when a customer receives a device back looking better than when they brought it.
+#### 13) When a customer picks up a device, make sure to confirm them with a combination of a name, phone number, email, and ticket number, or whatever is necessary for you to believe in good faith that you are giving the right individual the right device.
 
-13) When a customer picks up a device, make sure to confirm them with a combination of a name, phone number, email and ticket number - or whatever is necessary for you to believe in good faith you are giving the right individual the right device. 
+* **Explanation:** We never want to give people the wrong device.
 
-**Explanation:** We never want to give people the wrong device.
+#### 14) If they are picking up a successful data recovery job, make sure to show them the data and what was recovered, and have them look through the data before taking payment.
 
-14) If they are picking up a successful data recovery, make sure to show them the data and what was recovered, have them look through the data before taking payment. 
+* **Explanation:**You want to avoid the callback two years later when they say, *“Hey, this isn’t my data!”*
 
-**Explanation:** You want to avoid the callback 2 years later where they say *“hey, this isn’t my data!”*
+#### 15) If they are picking up a successful repair, show the customer the device working and have them test out the device before taking payment. Try to boot the device before handing it back so that you do not leave the customer waiting anxiously to see if the machine does work.
 
-15) If they are picking up a successful repair, show the customer the device working, and have them test out the device before taking payment. Try to boot the device before handing back the device so you do not leave the customer waiting anxiously to see if the machine does work. 
+* **Explanation:** A small number of difficult customers will use any part of the experience that is not perfect as a reason to bargain for a lower price, or feed their own anxiety/distrust for repair shops which often results in a litany of paranoid questions. These experience imperfections can include you having to find a charger because it won’t turn on when you give it to them *(battery died in the slot),* or the device booting up slowly.
 
-**Explanation:** A small number of difficult customers will use any part of the experience that is not perfect as a reason to bargain for a lower price, or feed their own anxiety/distrust for repair shops which often results in a litany of paranoid questions. These experience imperfections include you having to find a charger because it won’t turn on when you give it to them *(battery died in the slot),* or the device booting up slowly.
+#### 16) If we could not do a repair or data recovery, apologize for not being able to do more for the customer, and give the device back. 
 
-16) If we could not do a repair or data recovery, apologize for not being able to do more for the customer, and give the device back. 
+* **Explanation:** Many customers are already in a mood to leave a 1-star review when they expect a repair and we aren’t able to perform it – for whatever reason. Blunt the edge by letting them know you care about the fact that you couldn’t fix the device.
 
-**Explanation:** Many customers are already in a mood to leave a 1 star review when they expect a repair, and we aren’t able to perform it - for whatever reason. Blunt the edge by letting them know you care about the fact that you couldn’t fix the device.
+#### 17) Try to understand what problem the customer is having rather than focusing on what part they ask you to fix. Even if you perform the service of replacing the specific par they ask you to replace, seek to understand the problem they are having that led them to ask for this to be replaced, because the customer might be prescribing the wrong solution to their problem.
 
-17) Try to understand what problem the customer is having, rather than focusing on what pat they ask to be fixed. Even if you perform the service of replacing the specific part they ask be replaced, seek to understand the problem they are having that led them to ask for this to be replaced, because the customer might be prescribing the wrong solution to their problem. 
-
-**Explanation:** A customer might ask you to replace a screen cable when they have no backlight - even if their fault is with a dc in board, or with a backlight fuse. Offering to do the specific job the customer wants sets the expectation that when they pay for that service, the device will be fixed - and they will blame us when what they diagnosed to be the issue does not fix their problem. We focus on providing solutions, not on for-hire-parts-swapping.
+* **Explanation:** A customer might ask you to replace a screen cable when they have no backlight - even if their fault is with a DC In board, or with a backlight fuse. Offering to do the specific job the customer wants sets the expectation that when they pay for that service, the device will be fixed - and they will blame us when what they diagnosed to be the issue does not fix their problem. We focus on providing solutions, not on for-hire parts-swapping.
 
 ## Answering phones:
 
-18) Don’t sound miserable when talking to customers. 
+#### 18) Don’t sound miserable when talking to customers. 
 
-**Explanation:** Customers are already unhappy to be calling us. Calling a repair shop is an admission that they have screwed up so bad they need outside help to fix a problem, and that they will be paying money to get back the same device they had last week. They are already unhappy - we need to shift them from unhappy, to happy, not reinforce their misery. People often respond to how you say something as much as what you are saying, so do not sound miserable.
+* **Explanation:** Customers are already unhappy to be calling us. Calling a repair shop is an admission that they have screwed up so bad they need outside help to fix a problem, and that they will be paying money to get back the same device they had last week. They are already unhappy; we need to shift them from unhappy to happy, not reinforce their misery. People often respond to how you say something as much as what you are saying, so do not sound miserable.
 
-19) Give the most possible relevant information you can before giving the customer “homework”
+#### 19) Give as much relevant information as possible before giving the customer “homework”
 
-**Explanation:**  Opening with the question of *“what model do you have?”* gives them less information than *“$300-$450, but the price depends on model \# of the machine.”* You want to give as much information as you can in the least amount of time: giving customers extra ‘homework’ to do such as researching the model \# of their device gives them a reason to procrastinate seeking out the repair, and may result in the *“I’ll call you back later with a model \#”*, which often means *“I am putting this off and will probably never get it done.”*
+* **Explanation:**Opening with the question of *“what model do you have?”* gives them less information than *“screen replacement on that device costs $300-$450, but the price depends on the model number of the machine.”* You want to give as much information as you can in the least amount of time. Giving customers extra *“homework"* to do such as researching the model # of their device gives them a reason to procrastinate seeking out the repair, and may result in the “I’ll call you back later with a model number”, which often means “I am putting this off and will probably never get it done.” $300-$450 is not specific, but it gives them an idea, while still in the same sentence asking for clarification of the model number.
 
 ## Reassembly tech standards:
 
-20) When opening a machine, the drive must be labeled if separated from the computer. 
+#### 20) When opening a machine, the drive must be labeled if separated from the computer. 
 
-**Explanation:** There is nothing worse than unnecessarily losing a customer’s data because the drive was misplaced. It is easy for the SSD for newer machines to slide away from the casing.
+* **Explanation:** There is nothing worse than unnecessarily losing a customer’s data because the drive was misplaced. It is easy for the SSD for newer machines to slide away from the casing.
 
-21) When taken from one location to the other, transport the whole machine, not just one single part. 
+#### 21) When taken from one location to the other, transport the whole machine, not just one single part. 
 
-**Explanation:** We do not want one part of the machine getting lost or mixed with another.
+* **Explanation:** We do not want one part of the machine getting lost or mixed with another.
 
-22) Everything the machine came with should go out with it, screws, rubber pieces, etc. Put it back together the way it should be put back together based on best practices. *(with the exception on occasion of jtag connectors)* 
+#### 22) Everything the machine came with should go out with it, screws, rubber pieces, etc. Put it back together the way it should be put back together based on best practices. *(with the exception on occasion of jtag connectors)* 
 
-**Explanation:** Customers should get back every part of their machine that they brought it with, unless there is a specific reason for the part not given back to be missing.
+* **Explanation:** Customers should get back every part of their machine that they brought it with, unless there is a specific reason for the part not given back to be missing.
 
 ## Conduct:
 
-23) Do not be drunk or high at work.
+#### 23) Do not be drunk or high at work.
 
-24) If using someone’s tool, ask for permission and give the tool back to the owner after using the tool, not when the repair on the machine is completed. *If you are asking to use a tool, you probably need one yourself - speak to management about buying another for you.* 
+#### 24) If using someone’s tool, ask for permission and give the tool back to the owner after using the tool, not when the repair on the machine is completed. *If you are asking to use a tool, you probably need one yourself - speak to management about buying another for you.* 
 
-**Explanation:** It is highly frustrating & demoralizing to have to hunt down the basics necessary to do your job - it destroys morale & productivity of your coworkers, and creates a corrosive company culture of resentment and low productivity.
+* **Explanation:** It is highly frustrating & demoralizing to have to hunt down the basics necessary to do your job - it destroys morale & productivity of your coworkers, and creates a corrosive company culture of resentment and low productivity.
 
-25) Don’t be a prick to anyone, especially customers.
+#### 25) Don’t be a prick to anyone, especially customers.
 
-26) Do not gossip about other customers in front of or within earshot of existing customers. 
+#### 26) Do not gossip about other customers in front of or within earshot of existing customers. 
 
-**Explanation:** People should not be led to believe that they are spending money at a business where people are talking behind their backs. If you must, do it in private.
+* **Explanation:** People should not be led to believe that they are spending money at a business where people are talking behind their backs. If you must, do it in private.
 
 # 27) Never assume that someone is going to solve a problem you notice.
-**Explanation:** businesses with staff who think issues are someone else’s problem become businesses where everything wrong is everyone’s problem, until they go out of business.
+* **Explanation:** businesses with staff who think issues are someone else’s problem become businesses where everything wrong is everyone’s problem, until they go out of business.
 
-28) If there is an issue with a device that may cause the customer to come back for a 2nd repair, don’t wait for the device to fail again. Address the issue by talking to the customer or service manager. 
+#### 28) If there is an issue with a device that may cause the customer to come back for a 2nd repair, don’t wait for the device to fail again. Address the issue by talking to the customer or service manager. 
 
-**Explanation:** The worst thing for a customer is when they have a 2nd problem right after paying to fix the first one.
+* **Explanation:** The worst thing for a customer is when they have a 2nd problem right after paying to fix the first one.
 
-29) If an area looks damaged enough, don’t wait for the customer to come back, address the issue, we do not want to bill for repairs that will come back in the future.
+#### 29) If an area looks damaged enough, don’t wait for the customer to come back, address the issue, we do not want to bill for repairs that will come back in the future.
 
-30) When getting approval for a repair from a customer, make sure to get approval for moving forward with affirmative language. If they say *“yes, that sounds good, but please call or email me”*, or *“you’ll let me know right”* that negates prior approval and should prompt you to say *“to be clear, you are approving that we perform the repair at $250 to this device?”* 
+#### 30) When getting approval for a repair from a customer, make sure to get approval for moving forward with affirmative language. If they say *“yes, that sounds good, but please call or email me”*, or *“you’ll let me know right”* that negates prior approval and should prompt you to say *“to be clear, you are approving that we perform the repair at $250 to this device?”* 
 
-**Explanation:** Imagine you are speaking to someone you have a crush on, and ask them out on a date. They say *“I’d love to go out with you, but -”* anything *before *the but is rendered irrelevant. Sometimes, customers can be wishy-washy about whether they want a repair done, and can become mad when the repair is done, even if they gave prior consent. Ask them directly if they wish for us to perform the repair at the price quoted. You don’t want to sound like the stereotypical used car salesman, but you want to be affirmative that they want the repairs done to avoid them saying *“I never approved this.”*
+* **Explanation:** Imagine you are speaking to someone you have a crush on, and ask them out on a date. They say *“I’d love to go out with you, but -”* anything *before *the but is rendered irrelevant. Sometimes, customers can be wishy-washy about whether they want a repair done, and can become mad when the repair is done, even if they gave prior consent. Ask them directly if they wish for us to perform the repair at the price quoted. You don’t want to sound like the stereotypical used car salesman, but you want to be affirmative that they want the repairs done to avoid them saying *“I never approved this.”*
 
-31) If a customer calls and we have an update, or the device is completed, tell the customer that you were on the list of people that we are going to call, and tell them the estimate. If the machine is done, tell the customer what was done to the machine.
+####  31) If a customer calls and we have an update, or the device is completed, tell the customer that you were on the list of people that we are going to call, and tell them the estimate. If the machine is done, tell the customer what was done to the machine.
 
-**Explanation:** You do not want to give the customer the impression that, had they not called us, they would have never heard from us. It is important to give them an idea, if they call us before we have a chance to call them, that we were just about to call them.
+* **Explanation:** You do not want to give the customer the impression that, had they not called us, they would have never heard from us. It is important to give them an idea, if they call us before we have a chance to call them, that we were just about to call them.
 
-32) If a repair is completed, charge the machine before putting it in a slot. Do not give a customer a machine that is not charged, if shipped or walked in. It gives the customer the impression that we never tested their device, or that something may be wrong, if we give it to them to try and it is dead. This is the worst first impression you can provide a customer of our services - giving them back the finished product dead.
+####  32) If a repair is completed, charge the machine before putting it in a slot. Do not give a customer a machine that is not charged, if shipped or walked in. It gives the customer the impression that we never tested their device, or that something may be wrong, if we give it to them to try and it is dead. This is the worst first impression you can provide a customer of our services - giving them back the finished product dead.
 
-33) When reassembling a device, make sure to test out all the functions of the device on the checklist. Make sure to test out all of the device functions, and make sure all connectors are connected before saying the device is completed. The repair is not completed until everything works, not when the problem that the customer is facing is solved.
+####  33) When reassembling a device, make sure to test out all the functions of the device on the checklist. Make sure to test out all of the device functions, and make sure all connectors are connected before saying the device is completed. The repair is not completed until everything works, not when the problem that the customer is facing is solved.
 
-**Explanation:** A customer who brings in a device for it not charging will *NOT* be happy if we give it back to them with wifi not working or a dead spot on the trackpad. Customers expect that devices leaving a repair shop work - and that if there are additional issues, they are made aware of such issues. It displays a lack of competence and undermines their trust in our quality of service if we hand them back devices with unidentified issues.
+* **Explanation:** A customer who brings in a device for it not charging will *NOT* be happy if we give it back to them with wifi not working or a dead spot on the trackpad. Customers expect that devices leaving a repair shop work - and that if there are additional issues, they are made aware of such issues. It displays a lack of competence and undermines their trust in our quality of service if we hand them back devices with unidentified issues.
 
-34) Leave notes with as much detail as possible, assume that every customer will ask for every single detail on their machine.
+#### 34) Leave notes with as much detail as possible, assume that every customer will ask for every single detail on their machine.
 
-**Explanation:** Leaving detailed notes will allow the person who is talking to the customer to relay everything that is going on with their device without having to talk to the technician(s) working(worked) on it. Everytime someone on the phone doesn’t know a detail that is important to answer a customer question, we look more like idiots who aren’t deserving of that customer’s confidence and trust, which makes dealing with any issues that arise over the course of the job difficult.
+* **Explanation:** Leaving detailed notes will allow the person who is talking to the customer to relay everything that is going on with their device without having to talk to the technician(s) working(worked) on it. Everytime someone on the phone doesn’t know a detail that is important to answer a customer question, we look more like idiots who aren’t deserving of that customer’s confidence and trust, which makes dealing with any issues that arise over the course of the job difficult.
 
 properly diagnosing
 
 customer service
 
-35) If the customer is adamant that they want to go through with a repair that may not fix the issue, tell the customer that the repair that is being done may not fix the issue that they are having. Strongly discourage them from doing this several times.
+#### 35) If the customer is adamant that they want to go through with a repair that may not fix the issue, tell the customer that the repair that is being done may not fix the issue that they are having. Strongly discourage them from doing this several times.
 
-**Explanation:** Customers will not hold themselves responsible if they prescribe a repair for themselves that is ineffective - they will hold us responsible. You should always have the best interest of your customer at heart, and that includes saying no to work that will not repair the problem, even if you stand to profit from doing the work.
+* **Explanation:** Customers will not hold themselves responsible if they prescribe a repair for themselves that is ineffective - they will hold us responsible. You should always have the best interest of your customer at heart, and that includes saying no to work that will not repair the problem, even if you stand to profit from doing the work.
 
 ---
 ## Specific to Louis: not industry
@@ -152,7 +152,7 @@ When offering rush service, tell the customer that it is $45 and that it is non-
 
 When talking to someone on the phone, if they want an estimate over the phone, tell them that it's a general estimate, and it may not apply to their device, we would need to take a look at the device itself.
 
-Emailing customer service:
+### Emailing customer service:
 
 Aim to respond to any customer email immediately after they have sent it, using information from the knowledgebase. Customers often email 3-5 places to see who will reply first. In this business, often, the first shop with a decent reply will get the business.
 
