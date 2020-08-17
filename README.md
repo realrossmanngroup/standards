@@ -81,7 +81,7 @@ In this document, each rule should be followed by an explanation, giving the phi
 
 #### 19) Give as much relevant information as possible before giving the customer “homework”
 
-* **Explanation:**Opening with the question of *“what model do you have?”* gives them less information than *“screen replacement on that device costs $300-$450, but the price depends on the model number of the machine.”* You want to give as much information as you can in the least amount of time. Giving customers extra *“homework"* to do such as researching the model # of their device gives them a reason to procrastinate seeking out the repair, and may result in the “I’ll call you back later with a model number”, which often means “I am putting this off and will probably never get it done.” $300-$450 is not specific, but it gives them an idea, while still in the same sentence asking for clarification of the model number.
+* **Explanation:** Opening with the question of *“what model do you have?”* gives them less information than *“screen replacement on that device costs $300-$450, but the price depends on the model number of the machine.”* You want to give as much information as you can in the least amount of time. Giving customers extra *“homework"* to do such as researching the model # of their device gives them a reason to procrastinate seeking out the repair, and may result in the “I’ll call you back later with a model number”, which often means “I am putting this off and will probably never get it done.” $300-$450 is not specific, but it gives them an idea, while still in the same sentence asking for clarification of the model number.
 
 ## Reassembly tech standards:
 
