@@ -101,6 +101,8 @@ In this document, each rule should be followed by an explanation, giving the phi
 
 #### 23) Do not be drunk or high at work.
 
+* **Explanation:** The brain will lose touch with reality and then bad things will always happen.
+
 #### 24) If using someone else’s tool, ask for permission, and give it back to the owner after using it, not when the repair on the machine is completed. *If you are asking to use a tool, you probably need one yourself - speak to management about buying another for you.*
 * **Explanation:** It is highly frustrating & demoralizing to have to hunt down the basics necessary to do your job - it destroys morale & productivity of your coworkers, and creates a corrosive company culture of resentment and low productivity.
 
